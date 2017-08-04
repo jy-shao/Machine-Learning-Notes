@@ -2,7 +2,7 @@
 This note presents a roadmap of machine learning algorithms based on my current understanding.
 version 1: 2017-08-04
 
-## 1\. Traditional Machine Learning
+## 1\. Traditional Machine Learning Algorithms
 
 1. Regression
 2. Decision tree
@@ -10,7 +10,7 @@ version 1: 2017-08-04
 4. SVM
 5. Clustering
 6. EM
-7. Bayesian
+7. Bayesian methods
 8. LDA
 9. HMM
 
