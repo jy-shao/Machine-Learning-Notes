@@ -1,4 +1,6 @@
 # Machine Learning Roadmap
+This note present a roadmap of machine learning algorithms based on my current understanding.
+version 1: 2017-08-04
 
 ## 1\. Traditional Machine Learning
 
