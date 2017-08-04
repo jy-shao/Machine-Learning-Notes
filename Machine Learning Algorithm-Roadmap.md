@@ -1,4 +1,4 @@
-# Machine Learning Roadmap
+# Machine Learning Algorithms Roadmap
 This note presents a roadmap of machine learning algorithms based on my current understanding.
 version 1: 2017-08-04
 
