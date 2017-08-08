@@ -25,10 +25,9 @@ version 1: 2017-08-04
 
 1. Generative Adversarial Network (GAN)
 2. Variational Bayesian
-3. Auto-encoder
-4. Variational Auto-encoder (VAE)
+3. Variational Auto-encoder (VAE)
 
-## 4\. Learning Optimization
+## 4\. Learning Optimization Algorithms
 
 1. Gradient descent (GD)
 2. Stochastic gradient descent (SGD)
@@ -42,7 +41,7 @@ version 1: 2017-08-04
 10. Proximal gradient (convergence rate of non-smoothness functions)
 11. Augmented Lagrangian methods (constraints)
 
-## 5\. Computatiuonal Learning
+## 5\. Computatiuonal Learning Algorithms
 
 1. Generalization
 2. VC-dimension
