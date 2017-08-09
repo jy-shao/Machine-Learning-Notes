@@ -13,7 +13,7 @@ The difference for (1) and (2) in term of solution process is that:<br>
 
 - On the other hand, End-to-End deep learning models incorporate features (such as filters for image or embeddings for features) as part of learning parameters, and they were trained and refined together in training/optimization process (This learning to learn concept can also be extended to neural network structure selection).
 
-## 2\. Machine Learning Problem Solution Pipeline
+## 2\. Machine Learning Problem Solution Pipeline (WIP)
 
 The note here is based on the well explained process in Chapter 18 from the book [Machine Learning With Python](http://machinelearningmastery.com/products/) by [Jason Brownlee](http://machinelearningmastery.com/about/).
 
