@@ -32,7 +32,7 @@ The note here is based on the well explained process in Chapter 18 from the book
 Before open a '.py' file and start coding, it is important to clearly define:
 
 - What is problem we want to solve?
-- What is the target variable to be predicted? What is the real impact/value of this variable?
+- What is the target variable to predict? What is the real impact/value of this variable?
 - What kind of data is needed to solve the problem (necessary features, source of data, size of data)?
 - What matrix we need to quantitatively evaluate the results?
 
