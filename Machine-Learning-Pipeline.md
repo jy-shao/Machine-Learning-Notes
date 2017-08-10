@@ -56,24 +56,24 @@ Before open a '.py' file and start coding, it is important to clearly define:
   - Data transform
   - Train-test split
 
-  - (4) Evaluate algorithms
+- (4) Evaluate algorithms
 
-    - Establish test options and evaluation matrix
-    - Spot check algorithms
-    - Compare algorithms
+  - Establish test options and evaluation matrix
+  - Spot check algorithms
+  - Compare algorithms
 
-  - (5) Improve results
+- (5) Improve results
 
-    - Hyper-parameters tuning for individual algorithm (e.g grid-search with cross validation)
-    - Boosting/Ensemble
-    - Apply advanced techniques for deep learning models (e.g. pesudo-labeling, external data)
-    - Iterate over step 2 to 5, sometime even include step 1
+  - Hyper-parameters tuning for individual algorithm (e.g grid-search with cross validation)
+  - Boosting/Ensemble
+  - Apply advanced techniques for deep learning models (e.g. pesudo-labeling, external data)
+  - Iterate over step 2 to 5, sometime even include step 1
 
-  - (6) Finalize algorithm and predict
+- (6) Finalize algorithm and predict
 
-    - Create a standalone model on entire training dataset
-    - Make predictions for test data
-    - Save trained model
+  - Create a standalone model on entire training dataset
+  - Make predictions for test data
+  - Save trained model
 
 ## 3\. Pipeline: Dimension Reduction Process of Machine Learning Algorithms
 
