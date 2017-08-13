@@ -4,7 +4,7 @@
 
 1. Regression
 2. Decision tree
-3. Boosting Algorithms
+3. Ensemble: Bagging, Gradient Boost, Gradient Boost Decision Tree, XgBoost, AdaBoost.
 4. SVM
 5. Clustering
 6. EM
