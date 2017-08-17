@@ -36,7 +36,7 @@ Before open a '.py' file and start coding, it is important to clearly define:
 - What kind of data is needed to solve the problem (necessary features, source of data, size of data)?
 - What matrix we need to quantitatively evaluate the results?
 
-### 2.3 Establish a Pipeline (WIP)<br>
+### 2.3 Establish a Pipeline <br>
 
 - (1) Prepare data
 
