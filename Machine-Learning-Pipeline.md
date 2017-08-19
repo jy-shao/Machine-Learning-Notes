@@ -25,7 +25,7 @@ The note here is based on the well explained process in Chapter 18 from the book
 - (3) Pre-processing and feature engineering
 - (4) Evaluate algorithms (in a hierarchical way, e.g. from simple to complex)
 - (5) Improve results (iterate over step 2 to 5, sometime even include step 1)
-- (6) Finalize algorithm and predict
+- (6) Finalize algorithm and make prediction on test data
 
 ### 2.2 Define Problem
 
